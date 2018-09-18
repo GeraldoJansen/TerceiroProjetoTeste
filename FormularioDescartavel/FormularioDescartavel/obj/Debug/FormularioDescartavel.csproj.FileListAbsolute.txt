@@ -1,0 +1,9 @@
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\bin\Debug\FormularioDescartavel.exe.config
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\bin\Debug\FormularioDescartavel.exe
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\bin\Debug\FormularioDescartavel.pdb
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\obj\Debug\FormularioDescartavel.csprojAssemblyReference.cache
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\obj\Debug\FormularioDescartavel.Properties.Resources.resources
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\obj\Debug\FormularioDescartavel.csproj.GenerateResource.cache
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\obj\Debug\FormularioDescartavel.csproj.CoreCompileInputs.cache
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\obj\Debug\FormularioDescartavel.exe
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\TerceiroProjetoTeste\FormularioDescartavel\FormularioDescartavel\obj\Debug\FormularioDescartavel.pdb
